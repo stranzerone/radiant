@@ -1,0 +1,19 @@
+App{
+background-color:red;
+height: 100vh;
+}
+
+.appBox{
+  margin-left: 10vw;
+
+
+
+}
+
+
+@media screen and (max-width: 480px) {
+
+.appBox{
+  margin-left: 2rem;
+}
+}
